@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://llessenka.github.io/exam1/lesson-24%20Exam/sitemap.xml
+Host: llessenka.github.io
